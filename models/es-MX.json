@@ -1,0 +1,111 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "space kids",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "Salir del juego",
+            "terminar juego",
+            "salir",
+            "terminar",
+            "hay que terminar el juego"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "LaLunaIntent",
+          "samples": [
+            "La Luna",
+            "Vamos a la Luna",
+            "Me gustaría ir a la Luna",
+            "A la Luna"
+          ]
+        },
+        {
+          "name": "LaLunaHuellaIntent",
+          "samples":[
+            "Quiero saber sobre el rastro en el suelo",
+            "el rastro en el suelo",
+            "Sobre el rastro en el suelo",
+            "rastro en el suelo"
+          ]
+        },
+        {
+          "name": "LaLunaRobotIntent",
+          "samples":[
+            "Quiero saber sobre el robot",
+            "el robot",
+            "Sobre el robot",
+            "robot"
+          ]
+        },
+        {
+          "name": "MarteIntent",
+          "samples": [
+            "Marte",
+            "Vamos a Marte",
+            "Me gustaría ir a Marte",
+            "A Marte"
+          ]
+        },
+        {
+          "name": "MarteVolcanIntent",
+          "samples": [
+            "Veamos el volcan",
+            "Quiero ver el volcan",
+            "Me gustaría ir al volcan",
+            "Volcan"
+          ]
+        },
+        {
+          "name": "MarteCanonIntent",
+          "samples": [
+            "Vamos a el cañon",
+            "Quiero saber sobre el cañon",
+            "Me gustaría ir al cañon",
+            "Cañones"
+          ]
+        },
+        {
+          "name": "ElSolIntent",
+          "samples": [
+            "El Sol",
+            "Vamos al Sol",
+            "Me gustaría ir al Sol",
+            "A el Sol"
+          ]
+        },
+        {
+          "name": "PreguntaUnoIntent",
+          "samples": [
+            "Por qué está la Luna cubierta con cráteres",
+            "Sobre los cráteres de la luna"
+          ]
+        },
+        {
+          "name": "PreguntaDosIntent",
+          "samples": [
+            "Por qué marte es rojo"
+          ]
+        },
+        {
+          "name": "EstacionEspacialIntent",
+          "samples": [
+            "Claro",
+            "Vamos",
+            "Si"
+          ]
+        }
+      ]
+    }
+  }
+}
